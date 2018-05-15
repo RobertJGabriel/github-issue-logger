@@ -63,6 +63,18 @@ const githubIssueLogger = require('github-issue-logger');
     }
 ```
 
+## Getting github personal token.
+
+### How to 
+
+Clear more [here](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
+
+### Set environment variable
+```js
+process.env.githubPersonalToken = 'Token'
+```
+
+
 ## License
 
 MIT © [Robert James Gabriel](https://www.robertgabriel.ninja)
