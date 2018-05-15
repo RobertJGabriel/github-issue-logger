@@ -1,4 +1,4 @@
-# github-issue-logger [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# github-issue-logger [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]  <span class="badge-patreon"><a href="https://www.patreon.com/robertjgabriel" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 > A module for logging errors as issues on the github repos issues tab.
 
 <img src="./screenshot.png" width="752">
@@ -83,7 +83,7 @@ MIT © [Robert James Gabriel](https://www.robertgabriel.ninja)
 [npm-image]: https://badge.fury.io/js/github-issue-logger.svg
 [npm-url]: https://npmjs.org/package/github-issue-logger
 [travis-image]: https://travis-ci.org/RobertJGabriel/github-issue-logger.svg?branch=master
-[travis-url]: https://travis-ci.org/RobertJGabriel/github-issue-logger
+[travis-url]: https://www.travis-ci.com/RobertJGabriel/github-issue-logger.svg?branch=master
 [daviddm-image]: https://david-dm.org/RobertJGabriel/github-issue-logger.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/RobertJGabriel/github-issue-logger
 [coveralls-image]: https://coveralls.io/repos/RobertJGabriel/github-issue-logger/badge.svg
